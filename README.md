@@ -1,6 +1,3 @@
-Good — I now have a clear picture of the community pain points around this too. This is actually a well-documented frustration: many players find the same brownish color palette used for both the fog of war and the Terra Incognita layer makes it extremely hard to distinguish what has been discovered vs. what remains fully unknown — which is a separate but deeply related problem to the fog of war restyle. Here's the fully updated breakdown with the new epic integrated:
-
----
 
 ## 🏛️ Civ 7 Visual Overhaul Mod — Project Breakdown
 
